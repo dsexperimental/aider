@@ -1,0 +1,25 @@
+# General
+.env
+*.pyc
+*.pyo
+*.pyd
+__pycache__
+*.log
+
+
+# Django specific
+*.pot
+*.log
+*.pyc
+*.pyo
+*~
+__pycache__/
+db.sqlite3
+media
+apogee*
+
+# Virtual environment
+.venv/
+
+# VSCode
+.vscode/
